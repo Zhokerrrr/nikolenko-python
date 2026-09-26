@@ -1,0 +1,2 @@
+[console_scripts]
+nikolenko = nikolenko.cli:main
